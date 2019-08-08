@@ -3,7 +3,7 @@ entries:
   hlf-ord-latest:
   - apiVersion: v1
     appVersion: 1.4.2
-    created: 2019-08-08T18:20:01.910945+07:00
+    created: 2019-08-08T18:39:13.217085+07:00
     description: Hyperledger Fabric Orderer chart
     digest: 595d5f484547d07581cf7b678801ae1112fba59a6a8f0495c7a87f7ae568d3df
     home: http://hyperledger-fabric.readthedocs.io
@@ -21,6 +21,6 @@ entries:
     sources:
     - https://github.com/hyperledger/fabric
     urls:
-    - https://github.com/MisterPineapple/hlf-ord-latest/tree/gh-pages/hlf-ord-latest-1.2.5.tgz
+    - https://github.com/MisterPineapple/hlf-ord-latest/hlf-ord-latest-1.2.5.tgz
     version: 1.2.5
-generated: 2019-08-08T18:20:01.900211+07:00
+generated: 2019-08-08T18:39:13.201943+07:00
