@@ -13,10 +13,8 @@ entries:
     - hyperledger
     - fabric
     maintainers:
-    - email: sasha@aid.technology
-      name: alexvicegrab
-    - email: nicola@aid.technology
-      name: nicolapaoli
+    - email: patcharapol.pal@gmail.com
+      name: patcharapol
     name: hlf-ord-latest
     sources:
     - https://github.com/hyperledger/fabric
