@@ -29,8 +29,8 @@ Organizations:
         AdminPrincipal: Role.MEMBER
 
     # Organisation controlling Peers
-    - &AidTech
-        Name: AidTech
+    - &BBL
+        Name: BBL
 
         # ID to load the MSP definition as
         ID: PeerMSP
@@ -125,10 +125,10 @@ Profiles:
         Consortiums:
             MyConsortium:
                 Organizations:
-                    - *AidTech
+                    - *BBL
     MyChannel:
         Consortium: MyConsortium
         Application:
             <<: *ApplicationDefaults
             Organizations:
-                - *AidTech
+                - *BBL

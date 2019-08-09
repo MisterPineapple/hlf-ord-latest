@@ -32,7 +32,7 @@ You may need to download the latest cryptogen tools
 If you are using a Mac, you can run the following (version 1.1.0 and 1.2.0 are also supported if needed):
 
     brew tap aidtechnology/homebrew-fabric
-    brew install fabric-tools@1.3.0
+    brew install fabric-tools@1.4.2
 
 #### Generation
 
